@@ -23,6 +23,6 @@ git status
 git add .
 git commit -m "initial commit"
 
-git remote add origin https://github.com/azam-dalir/django-postgresql.git
+git remote add origin https://github.com/samabh/docker-and-postgresql.git
 git branch -M main
 git push -u origin main
