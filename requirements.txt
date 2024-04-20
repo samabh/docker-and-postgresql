@@ -8,11 +8,16 @@ defusedxml==0.7.1
 Django==5.0.4
 django-allauth==0.61.1
 django-crispy-forms==2.1
+django-environ==0.11.2
+environs==11.0.0
 idna==3.6
+marshmallow==3.21.1
 oauthlib==3.2.2
+packaging==24.0
 psycopg2-binary==2.9.9
 pycparser==2.22
 PyJWT==2.8.0
+python-dotenv==1.0.1
 python3-openid==3.2.0
 requests==2.31.0
 requests-oauthlib==2.0.0
